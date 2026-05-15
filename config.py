@@ -16,11 +16,11 @@ MONGO_DB_URL    = os.environ["MONGO_DB_URL"]
 OWNER_ID        = int(os.environ["OWNER_ID"])
 
 # ── Optional ──────────────────────────────────────────────────────────────────
-BOT_NAME         = os.getenv("BOT_NAME", "Shizu Music")
-BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/ShizuMusicBot")
-UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/PBX_UPDATE")
-SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/PBXCHATS")
-LOGGER_ID        = int(os.getenv("LOGGER_ID", "0"))
+BOT_NAME         = os.getenv("BOT_NAME", "𝗧𝘂𝗻𝗲 𝗧𝗼𝗸𝘆𝗼 ⛩️")
+BOT_LINK         = os.getenv("BOT_LINK", "https://t.me/TuneTokyo_Bot")
+UPDATES_CHANNEL  = os.getenv("UPDATES_CHANNEL", "https://t.me/B0RN5")
+SUPPORT_GROUP    = os.getenv("SUPPORT_GROUP", "https://t.me/+FFPYtm_uEDhlMjY1")
+LOGGER_ID        = int(os.getenv("LOGGER_ID", "-1003915741956"))
 START_ANIMATION  = os.getenv("START_ANIMATION", "https://telegra.ph/file/1a3c152717eb9d2e94dc2.mp4",)
 PING_IMG_URL     = os.getenv("PING_IMG_URL", "https://files.catbox.moe/ddzvc0.jpg",)
 SESSION_NAME     = os.getenv("SESSION_NAME", "ShizuMusic")
